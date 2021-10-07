@@ -7,7 +7,11 @@ A 6 key macropad built using an Arduino micro.
 ![ewiepad 1](https://user-images.githubusercontent.com/54287921/132967135-6d00d9a1-f2bd-4dec-b0fa-be93921628a6.jpg)
 
 ## Features
-PCB
-<br> Hot swappable switches through mill-max sockets
+### PCB
+Hot swappable switches through mill-max sockets
 <br> Arduino Micro
 <br> 3d printable case
+
+### Case
+<br> Screws aren't visable on the front
+<br> Flush design
