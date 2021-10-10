@@ -11,7 +11,7 @@ Hot swappable switches through mill-max sockets
 <br> 3d printable case
 
 ### Case
-Screws aren't visable on the front
+Screws aren't visible on the front
 <br> Flush design
 
 ## Parts List
